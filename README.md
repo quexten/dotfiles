@@ -3,3 +3,5 @@
 * **WM** i3-gaps
 * **Compositor** Compton-Blur
 * **Bar** Polybar
+* **Terminal** oh-my-zsh
+* **Distro** Manjaro
