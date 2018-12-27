@@ -3,7 +3,8 @@
 * **WM** i3-gaps
 * **Compositor** Compton-Blur
 * **Bar** Polybar
-* **Terminal** oh-my-zsh
+* **Shell** oh-my-zsh
+* **Terminal** Konsole
 * **Distro** Manjaro
 * **Launcher** Rofi
 * **Browser** Chromium-VAAPI
