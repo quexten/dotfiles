@@ -9,6 +9,9 @@
 * **Browser** Chromium-VAAPI
 
 # Installation
+```
+git clone https://github.com/quexten/dotfiles.git
+```
 
 ## Auto updating
 
